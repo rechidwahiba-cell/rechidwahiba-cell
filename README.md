@@ -13,6 +13,7 @@ I help companies launch in new markets, shaping product, strategy and brand, and
 
 | Project | What it is |
 |---|---|
+| [visibility-brief](https://github.com/rechidwahiba-cell/visibility-brief) | A search and AI visibility brief: keywords, page specs and technical requests for a whole site, ready to hand over to SEO and tech teams. Try it at [rechidwahiba-cell.github.io/visibility-brief](https://rechidwahiba-cell.github.io/visibility-brief/) |
 | [launch-planner](https://github.com/rechidwahiba-cell/launch-planner) | A launch planner: pick a date, get a dated plan in four phases, export it to Excel. Try it at [rechidwahiba-cell.github.io/launch-planner](https://rechidwahiba-cell.github.io/launch-planner/) |
 | [portfolio](https://github.com/rechidwahiba-cell/portfolio) | My portfolio site: four stories about product launches, brand strategy and organic growth. Live at [wahiba-rechid.vercel.app](https://wahiba-rechid.vercel.app/) |
 
